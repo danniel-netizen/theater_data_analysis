@@ -467,3 +467,5 @@ This project combines **SQL and Python** to analyze movie theater customer behav
 SQL is used to store, clean, transform, and aggregate the transaction data, while Python is used for deeper exploratory analysis and visualization.
 
 The final analysis provides insights into **monthly customer footfall, food and beverage purchasing patterns, sales trends, and the relationship between theater attendance and concession sales**.
+
+*** Note Request not to use AI tool.
